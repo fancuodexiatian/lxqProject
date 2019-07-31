@@ -1,0 +1,11 @@
+# two(lxq1530862790@sina.com)
+
+    Host git@github.com
+
+　　HostName github.com
+
+　　PreferredAuthentications publickey
+
+　　IdentityFile ~/.ssh/id_rsa.two
+
+　　User two
