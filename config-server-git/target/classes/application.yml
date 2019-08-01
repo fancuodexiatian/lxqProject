@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:fancuodexiatian/lxqProject.git
+          #username: lxq1530862790@sina.com
+          #password: 1a89c1258
+server:
+  port: 1201
